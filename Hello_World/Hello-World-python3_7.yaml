@@ -11,6 +11,6 @@ Resources:
       Description: A starter AWS Lambda function.
       MemorySize: 128
       Timeout: 3
-      Role: 'arn:aws:iam::777402981472:role/service-role/Hello-World-Python'
+      Role: 'arn:aws:iam::000000000000:role/service-role/Hello-World-Python'
       Tags:
         'lambda-console:blueprint': hello-world-python
