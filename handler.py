@@ -2,5 +2,5 @@
 
 
 def hello(event, context):
-    print("Suprise Motherfucker!")
+    print("Suprise!  It's ME!")
     return "Hello_World"
